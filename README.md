@@ -25,3 +25,6 @@
 **git add .**
 # After 
 **git commit -m ""(Your descriptions actually)**
+
+# İf you wanna include my changing to your PC you can use this command=>
+**git pull**
